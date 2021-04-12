@@ -1,2 +1,6 @@
 #Ignorar carpeta maestra de terraform
 .terraform
+
+
+#Ignorar bloque de terraform
+.terraform.lock.hcl
